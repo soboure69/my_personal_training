@@ -1,0 +1,25 @@
+code_article;libelle;famille;forme;couleur_cible_ebc;couleur_tol_pct;ms_cible_pct;ms_tol_pts;viscosite_min_mpas;viscosite_max_mpas;ph_min;ph_max;prix_kg_eur
+CAR-AROM-001;Caramel Blond doux;Aromatique;Liquide;6800;8;74.2;2.0;2340;5460;3.58;4.38;4.38
+CAR-AROM-002;Caramel Ambré;Aromatique;Pâte;7100;8;79.4;2.0;1560;3639;3.74;4.54;3.25
+CAR-AROM-003;Caramel Beurre salé;Aromatique;Liquide;4300;8;77.0;2.0;1320;3080;3.56;4.36;4.24
+CAR-AROM-004;Caramel Vanillé;Aromatique;Pâte;6300;8;75.3;2.0;3660;8540;4.05;4.85;3.21
+CAR-AROM-005;Caramel Brun intense;Aromatique;Liquide;7800;8;78.2;2.0;2640;6160;3.52;4.32;4.73
+CAR-AROM-006;Caramel Doré;Aromatique;Pâte;5000;8;74.6;2.0;1620;3779;4.08;4.88;4.17
+CAR-AROM-007;Caramel Crème;Aromatique;Liquide;7800;8;78.4;2.0;3480;8119;4.18;4.98;3.81
+CAR-AROM-008;Caramel Fleur de sel;Aromatique;Pâte;6300;8;79.0;2.0;3780;8820;4.09;4.89;4.12
+CAR-COLO-001;Caramel E150a clair;Colorant;Liquide;46100;8;66.3;2.0;780;1819;2.63;3.43;1.68
+CAR-COLO-002;Caramel E150a foncé;Colorant;Poudre;32000;8;66.6;2.0;840;1959;2.91;3.71;1.96
+CAR-COLO-003;Caramel E150c;Colorant;Liquide;36100;8;67.3;2.0;840;1959;3.15;3.95;2.25
+CAR-COLO-004;Caramel E150d standard;Colorant;Poudre;43300;8;67.0;2.0;1440;3360;2.53;3.33;1.98
+CAR-COLO-005;Caramel E150d double force;Colorant;Liquide;54700;8;69.8;2.0;1200;2800;2.95;3.75;2.44
+CAR-COLO-006;Caramel E150d poudre;Colorant;Poudre;48300;8;67.4;2.0;540;1260;2.65;3.45;1.87
+CAR-SPEC-001;Caramel Nappage dessert;Spécialité;Liquide;2400;8;83.5;2.0;13500;31499;4.18;4.98;7.79
+CAR-SPEC-002;Caramel Fourrage;Spécialité;Pâte;3300;8;83.3;2.0;8520;19880;4.12;4.92;6.36
+CAR-SPEC-003;Caramel Éclats croquants;Spécialité;Éclats;4000;8;78.1;2.0;10020;23380;4.88;5.68;6.9
+CAR-SPEC-004;Caramel Pâte à tartiner;Spécialité;Liquide;2500;8;84.0;2.0;9120;21280;3.91;4.71;5.66
+CAR-SPEC-005;Caramel Inclusion glace;Spécialité;Pâte;2000;8;81.0;2.0;12480;29119;4.31;5.11;5.72
+CAR-SPEC-006;Caramel Praliné;Spécialité;Éclats;3200;8;84.0;2.0;9360;21840;4.97;5.77;8.51
+CAR-BURN-001;Caramel Sucre brûlé clair;Burnt sugar;Liquide;12100;8;74.3;2.0;2340;5460;3.03;3.83;2.72
+CAR-BURN-002;Caramel Sucre brûlé foncé;Burnt sugar;Poudre;18400;8;70.7;2.0;1800;4200;2.96;3.76;3.54
+CAR-BURN-003;Caramel Sucre brûlé poudre;Burnt sugar;Poudre;20800;8;71.6;2.0;1980;4620;2.74;3.54;3.5
+CAR-BURN-004;Caramel Sucre brûlé aromatique;Burnt sugar;Poudre;20700;8;71.8;2.0;2220;5180;3.09;3.89;2.58

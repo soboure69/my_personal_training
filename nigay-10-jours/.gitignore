@@ -1,0 +1,6 @@
+nigay.duckdb
+nigay.duckdb.wal
+.corrige_anomalies.json
+__pycache__/
+.venv/
+

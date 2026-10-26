@@ -1,0 +1,8 @@
+code_machine;libelle_machine;type_machine;code_atelier;date_mise_en_service
+CUI-01;Cuiseur 1;Cuiseur;ATL-FEU-CUI;2015-03-01
+CUI-02;Cuiseur 2;Cuiseur;ATL-FEU-CUI;2017-09-15
+CUI-03;Cuiseur 3;Cuiseur;ATL-FEU-CUI;2021-06-01
+ATO-01;Atomiseur 1;Atomiseur;ATL-FEU-SEC;2019-01-10
+BRO-01;Broyeur éclats 1;Broyeur;ATL-FEU-SEC;2018-05-20
+CUI-N1;Cuiseur Nesle 1;Cuiseur;ATL-NES-CUI;2023-04-01
+CUI-N2;Cuiseur Nesle 2;Cuiseur;ATL-NES-CUI;2023-04-01

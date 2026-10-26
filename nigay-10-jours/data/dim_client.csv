@@ -1,0 +1,41 @@
+code_client;nom_client;secteur;pays;remise_pct
+CLI-0001;Brasseries Vallon;Brasserie;Japon;5
+CLI-0002;Boulangeries Nordique;Boulangerie industrielle;France;3
+CLI-0003;Boulangeries Atlantique;Boulangerie industrielle;France;2
+CLI-0004;Laiterie Horizon;Produits laitiers;France;5
+CLI-0005;Boissons des Monts;Boissons;Pays-Bas;3
+CLI-0006;Boissons Vallon;Boissons;Japon;0
+CLI-0007;Brasseries Granit;Brasserie;Espagne;0
+CLI-0008;Biscuiterie Sirocco;Biscuiterie;Italie;3
+CLI-0009;Laiterie Vallon;Produits laitiers;Japon;8
+CLI-0010;Laiterie Sommet;Produits laitiers;Allemagne;8
+CLI-0011;Confiserie Azur;Confiserie;Belgique;3
+CLI-0012;Boissons Lumière;Boissons;France;0
+CLI-0013;Confiserie Alpha;Confiserie;Espagne;5
+CLI-0014;Laiterie Aurore;Produits laitiers;France;0
+CLI-0015;Boissons Horizon;Boissons;France;0
+CLI-0016;Boulangeries Orée;Boulangerie industrielle;France;5
+CLI-0017;Laiterie Rivage;Produits laitiers;Royaume-Uni;3
+CLI-0018;Brasseries Aurore;Brasserie;Espagne;3
+CLI-0019;Laiterie Granit;Produits laitiers;Brésil;3
+CLI-0020;Laiterie Atlantique;Produits laitiers;France;8
+CLI-0021;Glacier Prisme;Glaces;Allemagne;3
+CLI-0022;Cuisine Horizon;Plats cuisinés;Royaume-Uni;8
+CLI-0023;Glacier Orée;Glaces;Brésil;0
+CLI-0024;Laiterie Méridien;Produits laitiers;France;5
+CLI-0025;Cuisine du Val;Plats cuisinés;Allemagne;0
+CLI-0026;Biscuiterie Azur;Biscuiterie;France;0
+CLI-0027;Cuisine Vallon;Plats cuisinés;France;0
+CLI-0028;Boulangeries des Monts;Boulangerie industrielle;Japon;0
+CLI-0029;Brasseries Cobalt;Brasserie;Belgique;3
+CLI-0030;Laiterie Tilleul;Produits laitiers;France;0
+CLI-0031;Glacier Alpha;Glaces;Allemagne;2
+CLI-0032;Cuisine Sommet;Plats cuisinés;Allemagne;8
+CLI-0033;Boulangeries Horizon;Boulangerie industrielle;Espagne;3
+CLI-0034;Brasseries Horizon;Brasserie;Belgique;0
+CLI-0035;Brasseries des Monts;Brasserie;Italie;0
+CLI-0036;Boissons Aurore;Boissons;France;5
+CLI-0037;Boissons Cobalt;Boissons;Royaume-Uni;5
+CLI-0038;Confiserie Rivage;Confiserie;France;8
+CLI-0039;Confiserie Lumière;Confiserie;France;3
+CLI-0040;Brasseries Sommet;Brasserie;Allemagne;2
